@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LunaSenatiConnection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1353c13f50985b091fa6d18f7f5442e94e0cad4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LunaSenatiConnection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LunaSenatiConnection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
