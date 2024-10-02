@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LunaSenatiConnection.Views.Chat"
+             
+             xmlns:vm="clr-namespace:LunaSenatiConnection.ViewModel;assembly=LunaSenatiConnection">
+
+    <!-- Connect the viewmodel with views  -->
+    <ContentPage.BindingContext>
+        <vm:ChatViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <DataTemplate x:Key="FromTemplate">
+                <ViewCell>
+                    <ViewCell.View>
+                        <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="End">
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding FromUser}" FontSize="Medium" TextColor="blue"/>
+                                <Label Text="{Binding ToUser}" FontSize="Medium" TextColor="blue"/>
+                                <Label Text="To" FontSize="Medium"/>
+                                <Label Text="{Binding DataSent}" FontSize="Medium" TextColor="blue"/>
+                                <Label Text="{Binding Message}" FontSize="Medium" TextColor="blue"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+            <!-- Template for Received Messages -->
+            <DataTemplate x:Key="ToTemplate">
+                <ViewCell>
+                    <ViewCell.View>
+                        <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="Start">
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding FromUser}" FontSize="Medium" TextColor="green"/>
+                                <Label Text="{Binding Message}" FontSize="Medium" TextColor="green"/>
+                                <Label Text="Received" FontSize="Medium"/>
+                                <StackLayout>
+                                    <Label Text="{Binding DateSent}" FontSize="Medium" TextColor="green"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+
+            <vm:ChatDataTemplateSelector x:Key="chatdatatemplateSelector" 
+                                         FromTemplate="{StaticResource FromTemplate}" 
+                                         ToTemplate="{StaticResource ToTemplate}"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout Spacing="10">
+            <Label Text="Chat Senati app" FontSize="30"/>
+
+            <ListView x:Name="ListMessages" 
+                      HasUnevenRows="True" 
+                      ItemTemplate="{StaticResource chatdatatemplateSelector }"
+                      ItemsSource="{Binding Messages}"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

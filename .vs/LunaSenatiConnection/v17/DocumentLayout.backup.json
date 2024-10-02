@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\views\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\views\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +15,24 @@
       "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\viewmodel\\chatdatatemplateselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\viewmodel\\chatdatatemplateselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\views\\chat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\views\\chat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\viewmodel\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\viewmodel\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\views\\chat.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\views\\chat.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|c:\\users\\luna\\source\\repos\\luna-senati-connection\\luna-senati-connection\\views\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{15A031DE-D235-4AD4-ADAB-A63F286BE306}|Luna-Senati-Connection\\LunaSenatiConnection.csproj|solutionrelative:luna-senati-connection\\views\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,45 +42,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\Chat.xaml.cs",
+              "RelativeDocumentMoniker": "Luna-Senati-Connection\\Views\\Chat.xaml.cs",
+              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\Chat.xaml.cs",
+              "RelativeToolTip": "Luna-Senati-Connection\\Views\\Chat.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:14:13.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Luna-Senati-Connection\\ViewModel\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\LoginViewModel.cs",
-              "RelativeToolTip": "Luna-Senati-Connection\\ViewModel\\LoginViewModel.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Title": "ChatDataTemplateSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\ChatDataTemplateSelector.cs",
+              "RelativeDocumentMoniker": "Luna-Senati-Connection\\ViewModel\\ChatDataTemplateSelector.cs",
+              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\ChatDataTemplateSelector.cs",
+              "RelativeToolTip": "Luna-Senati-Connection\\ViewModel\\ChatDataTemplateSelector.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T02:04:44.87Z",
+              "WhenOpened": "2024-10-02T01:58:15.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Luna-Senati-Connection\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\MainPage.xaml.cs",
-              "RelativeToolTip": "Luna-Senati-Connection\\Views\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T00:53:09.75Z",
+              "DocumentIndex": 6,
+              "Title": "Chat.xaml",
+              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\Chat.xaml",
+              "RelativeDocumentMoniker": "Luna-Senati-Connection\\Views\\Chat.xaml",
+              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\Chat.xaml",
+              "RelativeToolTip": "Luna-Senati-Connection\\Views\\Chat.xaml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwEEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T01:49:28.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\Login.xaml",
               "RelativeDocumentMoniker": "Luna-Senati-Connection\\Views\\Login.xaml",
               "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\Login.xaml",
               "RelativeToolTip": "Luna-Senati-Connection\\Views\\Login.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-27T00:11:22.428Z",
+              "WhenOpened": "2024-10-02T01:48:09.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\ChatViewModel.cs",
+              "RelativeDocumentMoniker": "Luna-Senati-Connection\\ViewModel\\ChatViewModel.cs",
+              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\ChatViewModel.cs",
+              "RelativeToolTip": "Luna-Senati-Connection\\ViewModel\\ChatViewModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:09:05.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "Luna-Senati-Connection\\ViewModel\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\MainPageViewModel.cs",
+              "RelativeToolTip": "Luna-Senati-Connection\\ViewModel\\MainPageViewModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:51:41.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Luna-Senati-Connection\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Luna-Senati-Connection\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:52:10.82Z",
               "EditorCaption": ""
             },
             {
@@ -83,35 +143,9 @@
               "RelativeDocumentMoniker": "Luna-Senati-Connection\\Views\\MainPage.xaml",
               "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\Views\\MainPage.xaml",
               "RelativeToolTip": "Luna-Senati-Connection\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwHAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-25T02:09:55.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\MainPageViewModel.cs",
-              "RelativeDocumentMoniker": "Luna-Senati-Connection\\ViewModel\\MainPageViewModel.cs",
-              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\MainPageViewModel.cs",
-              "RelativeToolTip": "Luna-Senati-Connection\\ViewModel\\MainPageViewModel.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T21:33:30.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "Luna-Senati-Connection\\ViewModel\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\Luna\\source\\repos\\Luna-Senati-Connection\\Luna-Senati-Connection\\ViewModel\\BaseViewModel.cs",
-              "RelativeToolTip": "Luna-Senati-Connection\\ViewModel\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T02:07:23.403Z",
+              "WhenOpened": "2024-10-02T00:46:13.058Z",
               "EditorCaption": ""
             }
           ]

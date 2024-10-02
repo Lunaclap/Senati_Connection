@@ -12,6 +12,7 @@
              NavigationPage.HasNavigationBar="false">
     <ContentPage.BindingContext>
         <vm:MainPageViewModel/>
+        
     </ContentPage.BindingContext>
     
     <StackLayout>
@@ -74,7 +75,9 @@
         <syncfusion:SfListView x:Name="listView" 
                                ItemsSource="{Binding Messages}" 
                                SelectionBackgroundColor="#C9CFFF"
-                               Margin="5,10">
+                               Margin="5,10"
+                               SelectionMode="Single"
+                               TapCommand="{Binding NavigateToChatCommand}">
             <syncfusion:SfListView.ItemTemplate>
                 <DataTemplate>
                     <Grid x:Name="grid" >

@@ -1,0 +1,22 @@
+﻿using LunaSenatiConnection.ViewModel;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace LunaSenatiConnection.Views
+{
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class Chat : ContentPage
+    {
+        public Chat(Message selectedMessage)
+        {
+            InitializeComponent();
+            BindingContext = new ChatViewModel(selectedMessage); // Pasa el mensaje seleccionado al ViewModel
+        }
+    }
+}

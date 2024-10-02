@@ -20459,7 +20459,10 @@ namespace LunaSenatiConnection.Droid
 			public const int tooltip_frame_light = 2131165365;
 			
 			// aapt resource value: 0x7F0700B6
-			public const int verticalmenu = 2131165366;
+			public const int user = 2131165366;
+			
+			// aapt resource value: 0x7F0700B7
+			public const int verticalmenu = 2131165367;
 			
 			static Drawable()
 			{
